@@ -4,3 +4,7 @@ top:5px;
 font-size: 3em;
 font-family: 'Devonshire', cursive;
 color: #E35335;}
+
+#footer { background-color: #777;
+height: 80px;
+clear: both;}
