@@ -55,3 +55,8 @@ margin-left: 15px;}
   background-color: white;
   margin: 10px 0 10px 20px;
 }
+
+#side-content { min-height: 150px;
+width: 200px;
+float: left;}
+
