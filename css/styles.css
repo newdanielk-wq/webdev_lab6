@@ -93,3 +93,7 @@ float: left;}
   color: #333;
 }
 
+#center {
+  width: 960px;
+  text-align: center;
+}
