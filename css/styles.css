@@ -8,3 +8,6 @@ color: #E35335;}
 #footer { background-color: #777;
 height: 80px;
 clear: both;}
+
+h2 strong{ font-size: 2em;
+font-weight: 900;}
