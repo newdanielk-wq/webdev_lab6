@@ -20,3 +20,8 @@ border-radius: 12px 12px 0px 0px; }
 body {
   background-image: url("../images/black.jpg");
 }
+
+#header { position: relative;
+margin-top: 40px;
+border-radius: 12px 12px 0px 0px;}
+
